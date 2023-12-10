@@ -1,1 +1,4 @@
-# flight-status-prediction
+# Flight Status Prediction
+Air travel has become an essential part of modern life, connecting people all over the globe. However, the occurrence of flight cancellations can disrupt plans and inconvenience passengers, impacting both individuals and airlines. The ability to anticipate and mitigate such disruptions is crucial. Using machine learning, we created a predictive model that determines whether a flight will be canceled or not. We hope to aid airlines and travelers by providing information that can potentially make travel smoother and prevent issues regarding flight cancellations.
+
+The dataset we are using (Combined_Flights_2022.csv) is a collection of flights from 2022. Using this dataset, we hope to predict if flights will be canceled or not. The dataset was extracted from the Marketing Carrier On-Time Performance where we are just looking at the data from 2022 containing information on flight cancellations and delays. The dataset can be found on Kaggle here: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.csv
